@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/subash-a/node-bench/issues"
   },
-  "homepage": "https://github.com/subash-a/node-bench#readme"
+  "homepage": "https://github.com/subash-a/node-bench#readme",
+  "dependencies": {
+    "lodash": "^3.10.1"
+  }
 }
