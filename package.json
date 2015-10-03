@@ -4,7 +4,8 @@
   "description": "A Node Workbench for testing snippets",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+"start": "node --harmony"
   },
   "repository": {
     "type": "git",
