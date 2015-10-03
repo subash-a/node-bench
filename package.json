@@ -1,0 +1,25 @@
+{
+  "name": "node-bench",
+  "version": "0.0.0",
+  "description": "A Node Workbench for testing snippets",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/subash-a/node-bench.git"
+  },
+  "keywords": [
+    "workbench",
+    "node",
+    "npm",
+    "snippets"
+  ],
+  "author": "s7subash@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/subash-a/node-bench/issues"
+  },
+  "homepage": "https://github.com/subash-a/node-bench#readme"
+}
